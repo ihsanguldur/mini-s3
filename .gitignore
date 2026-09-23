@@ -1,0 +1,10 @@
+/bin/
+*.exe
+*.test
+
+go.work
+go.work.sum
+
+.idea/
+
+/data/
